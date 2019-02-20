@@ -1,4 +1,4 @@
----
+--- 
 services: app-service, MySQL
 platforms: java
 author: selvasingh
