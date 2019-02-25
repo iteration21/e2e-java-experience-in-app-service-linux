@@ -1,10 +1,10 @@
 # Tomcat Info
 
-export TOMCAT_HOME=<my-tomcat-home-directory>
+export TOMCAT_HOME=C:/vt/server/tommy
 
 # Azure Environment
 
-export RESOURCEGROUP_NAME=<my-resource-group-name>
-export WEBAPP_NAME=<my-webapp-name>
-export WEBAPP_PLAN_NAME=${WEBAPP_NAME}-appservice-plan
-export REGION=<my-region>
+export RESOURCEGROUP_NAME=dev-env-rg
+export WEBAPP_NAME=webappi2120190220-spring-1
+export WEBAPP_PLAN_NAME=webappi2120190220-spring-1-appplan
+export REGION=westeurope
